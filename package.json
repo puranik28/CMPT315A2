@@ -1,0 +1,19 @@
+{
+  "name": "cmpt315assignment2",
+  "version": "1.0.0",
+  "description": "This library was published for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"npm run test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puranik28/CMPT315A2.git"
+  },
+  "author": "Krishna Purani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puranik28/CMPT315A2/issues"
+  },
+  "homepage": "https://github.com/puranik28/CMPT315A2#readme"
+}

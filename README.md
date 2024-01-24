@@ -8,7 +8,7 @@ This library was published for learning purposes.
 **Require it:**
 `const _ = require('@puranik/CMPT315A2');`
 **Call it:**
-`const results = _.firstFunction()`
+`const function_name = require('./function_name');`
 ## Documentation
 The following functions are currently implemented:
 * `findNaNIndex()`: Find all the indexes where NaN is found in a given array of numbers and NaN. 

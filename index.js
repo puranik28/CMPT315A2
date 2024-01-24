@@ -2,8 +2,6 @@
  * Tests all the functions
  */
 
-const _ = require('lodash');
-
 const findNaNIndex = require('./findNaNIndex');
 const results1 = findNaNIndex([2, NaN, 8, 16, 32]); // => [1]
 const results2 = findNaNIndex([2, 4, NaN, 16, 32, NaN]); // => [2, 5]

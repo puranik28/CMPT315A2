@@ -4,7 +4,6 @@
  * @returns {number[]} An array containing the indexes where NaN is found.
  */
 
-
 const findNaNIndex = (arr) => {
   const NaNIndexes = [];
   for (let i = 0; i < arr.length; i++){

@@ -14,4 +14,3 @@ const findNaNIndex = (arr) => {
   return NaNIndexes;
 };
 
-module.exports = findNaNIndex;

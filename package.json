@@ -4,7 +4,7 @@
   "description": "This library was published for learning purposes.",
   "main": "index.js",
   "scripts": {
-    "test": "\"npm run test\""
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",

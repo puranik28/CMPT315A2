@@ -21,4 +21,3 @@ const biggestLoser = (matches) => {
   return biggestLoserName;
 };
 
-module.exports = biggestLoser;

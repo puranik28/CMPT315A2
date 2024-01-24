@@ -20,5 +20,5 @@ const winnersObject = (matches) => {
   return result;
 };
 
-module.exports = winnersObject;
+  
 

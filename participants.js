@@ -13,4 +13,6 @@ const participants = (matches) => {
   
   return [...playerSet];  
 };
+
+module.exports = participants;
   

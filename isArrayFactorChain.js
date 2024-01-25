@@ -13,4 +13,4 @@ const isArrayFactorChain = (arr) => {
   return true;
 };
 
-
+module.exports = isArrayFactorChain;

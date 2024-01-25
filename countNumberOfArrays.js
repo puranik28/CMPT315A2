@@ -18,4 +18,5 @@ const countNumberOfArrays = (arr) => {
   return count;
 };
 
+module.exports = countNumberOfArrays;
   
